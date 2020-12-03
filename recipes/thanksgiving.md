@@ -1,6 +1,7 @@
 # Thanksgiving Meal
 
-The standard family foods made around Turkey Day
+The standard family foods made around Turkey Day. 
+Note: 2020 I bought a 8-10lb turkey and cooked it for ~90 minutes and it was dry even with the turkey bag. Probably should check around 75 minutes nad give the thermometer a minute or so to get an accurate reading.
 
 
 ## Stuffing
@@ -43,10 +44,11 @@ The standard family foods made around Turkey Day
 	1. remove neck/giblets and rinse cavity
 	2. combine butter, garlic, lemon juice, seasonings into bowl and mix well
 	3. add stuffing to turkey cavity
-	4. tuck wing tip under turkey
-	5. smother butter mixture on turkey
-	6. cook until 165 internal
-	7. cover in tinfoil when skin starts to brown
+	4. put turkey in oven bag following instructions to tie and vent it
+	5. tuck wing tip under turkey
+	6. smother butter mixture on turkey
+	7. cook until 165 internal
+	8. cover in tinfoil when skin starts to brown
 
 
 ---
