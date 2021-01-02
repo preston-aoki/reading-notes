@@ -52,22 +52,33 @@
 ### Misc Watercooling
 ----
 
-##### [AlphaCool Bending Kit](https://www.aquatuning.us/water-cooling/tools/acrylic-tube-tools/21984/alphacool-eiskoffer-professional-bending-measuring-kit)
+#### [AlphaCool Bending Kit](https://www.aquatuning.us/water-cooling/tools/acrylic-tube-tools/21984/alphacool-eiskoffer-professional-bending-measuring-kit)
 
-##### PETG Hard Tubing (self-frost tubing, 14/16mm? 1/4 inch?)
+#### PETG Hard Tubing (self-frost tubing, 14/16mm? 1/4 inch?)
 
-##### PSU Cabling (nebula themed colors)
+#### PSU Cabling (nebula themed colors)
 
 	* [Ensourced](https://www.ensourced.net/)
 	* [Mod-One](https://mod-one.com/)
 
-##### Fittings
-	* [der8auer ??](https://www.primochill.com/collections/revolver-sx-compression/products/primochill-1-2in-rigid-revolversx-series-fitting-candy-purple-12-pack) 
+#### Fittings
+	##### by component:
+	* 8 fittings (distro plate)
+	* 2 fittings + 2 90s (gpu)
+	* 4 fittings + 4 extenders (rads)
+	* 2 fittings (cpu)
+	
+	##### total: 
+	* 16 fittings
+	* 2 90s
+	* 4 extenders
+	* 1 drain port
+	* 1 fill port
 
-##### EK Loop Connect (PWM consolidation)
+#### EK Loop Connect (PWM consolidation)
 * https://www.ekwb.com/shop/ek-loop-connect
 
-##### Drill Bits
+#### Drill Bits
 	* [Step bit](https://www.amazon.com/PrimoChill-RFB-Rigid-Tubing-Finishing/dp/B01FN3MKKQ/ref=sr_1_1?dchild=1&keywords=rfb+bit&qid=1609353580&sr=8-1)
 	* [RBF Finishing Bit](https://www.amazon.com/PrimoChill-RFB-Rigid-Tubing-Finishing/dp/B01FN3MKKQ/ref=sr_1_1?dchild=1&keywords=rfb+bit&qid=1609353580&sr=8-1)
 
