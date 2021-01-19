@@ -33,28 +33,30 @@
 ### Radiators
 	* top - Black Ice Nemesis 360GTS Radiator (30mm + 25mm fans)	
 	* bottom - Black Ice Nemesis 360GTX 360mm (54mm + 25mm fans)
+	* [cleaning kit](https://www.amazon.com/gp/product/B07NSGRSLL/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 ### Fans
 	* 6 - Noctua NF-F12 (static pressure fans)
 	* 1 - Noctua NF-s12a (airflow)
 
+### External
+	* [Acer Nitro XV272U Xbmiipruzx](https://www.amazon.com/gp/product/B08M6B6T1H/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) - (1440p, 1ms response, 240hz, FreeSync)
+	
+
+
 
 ----
 # To Buy
 ----
-		
-### Monitor
-	Acer Nitro XV272U Xbmiipruzx - (1440p, 1ms response, 240hz, FreeSync)
-
-### Radiators
-	radiator cleaning kit	
 
 ### Misc Watercooling
 ----
 
 #### [AlphaCool Bending Kit](https://www.aquatuning.us/water-cooling/tools/acrylic-tube-tools/21984/alphacool-eiskoffer-professional-bending-measuring-kit)
 
-#### PETG Hard Tubing (self-frost tubing, 14/16mm? 1/4 inch?)
+#### PETG Hard Tubing
+	* 16OD/12ID PETG tubing
+	* [Soft Sanding discs (S500 Grit)](https://www.amazon.com/Festool-492374-S500-Platin-Abrasives/dp/B002ZCGKLE)
 
 #### PSU Cabling (nebula themed colors)
 
@@ -62,13 +64,13 @@
 	* [Mod-One](https://mod-one.com/)
 
 #### Fittings
-	##### by component:
+	by component:
 	* 8 fittings (distro plate)
 	* 2 fittings + 2 90s (gpu)
 	* 4 fittings + 4 extenders (rads)
 	* 2 fittings (cpu)
 	
-	##### total: 
+	total: 
 	* 16 fittings
 	* 2 90s
 	* 4 extenders
