@@ -9,7 +9,7 @@
 	* 3 cloves garlic
 	* 1-1.5 pounds meat (chicken or beef)
 	* 3 cups chicken broth
-	* 1/2 package of golden curry roux (4 tablets)
+	* 0.5 package of golden curry roux (4 tablets)
 	* oil
 
 #### Directions
