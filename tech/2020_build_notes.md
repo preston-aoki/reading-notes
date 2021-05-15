@@ -38,9 +38,18 @@
 ### Fans
 	* 6 - Noctua NF-F12 (static pressure fans)
 	* 1 - Noctua NF-s12a (airflow)
+	
+#### PETG Hard Tubing
+	* [Corsair Hardline Satin 12mm](https://www.amazon.com/gp/product/B089WLRMDM/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 ### External
 	* [Acer Nitro XV272U Xbmiipruzx](https://www.amazon.com/gp/product/B08M6B6T1H/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) - (1440p, 1ms response, 240hz, FreeSync)
+	
+### Tools/Accessories
+	* [AlphaCool Bending Kit](https://www.aquatuning.us/water-cooling/tools/acrylic-tube-tools/21984/alphacool-eiskoffer-professional-bending-measuring-kit)
+	* [Step bit](https://www.amazon.com/PrimoChill-RFB-Rigid-Tubing-Finishing/dp/B01FN3MKKQ/ref=sr_1_1?dchild=1&keywords=rfb+bit&qid=1609353580&sr=8-1)
+	* [RBF Finishing Bit](https://www.amazon.com/PrimoChill-RFB-Rigid-Tubing-Finishing/dp/B01FN3MKKQ/ref=sr_1_1?dchild=1&keywords=rfb+bit&qid=1609353580&sr=8-1)
+
 	
 
 
@@ -49,14 +58,6 @@
 # To Buy
 ----
 
-### Misc Watercooling
-----
-
-#### [AlphaCool Bending Kit](https://www.aquatuning.us/water-cooling/tools/acrylic-tube-tools/21984/alphacool-eiskoffer-professional-bending-measuring-kit)
-
-#### PETG Hard Tubing
-	* 16OD/12ID PETG tubing
-	* [Soft Sanding discs (S500 Grit)](https://www.amazon.com/Festool-492374-S500-Platin-Abrasives/dp/B002ZCGKLE)
 
 #### PSU Cabling (nebula themed colors)
 
@@ -78,11 +79,5 @@
 	* 1 fill port
 
 #### EK Loop Connect (PWM consolidation)
-* https://www.ekwb.com/shop/ek-loop-connect
-
-#### Drill Bits
-	* [Step bit](https://www.amazon.com/PrimoChill-RFB-Rigid-Tubing-Finishing/dp/B01FN3MKKQ/ref=sr_1_1?dchild=1&keywords=rfb+bit&qid=1609353580&sr=8-1)
-	* [RBF Finishing Bit](https://www.amazon.com/PrimoChill-RFB-Rigid-Tubing-Finishing/dp/B01FN3MKKQ/ref=sr_1_1?dchild=1&keywords=rfb+bit&qid=1609353580&sr=8-1)
-
-	
+* https://www.ekwb.com/shop/ek-loop-connect	
 	
