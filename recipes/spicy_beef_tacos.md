@@ -5,7 +5,6 @@
 	* 2 lbs ground beef
 	* 1 onion (diced)
 	* 4 cloves garlic (minced)
-	* 2 habanero chiles (chopped)
 	
 	* 2 tbsp chili powder
 	* 1 tsp ground cumin
@@ -16,7 +15,8 @@
 	* 1 pack Mcormick taco seasoning (hot)
 	* 8oz tomato sauce
 	
-	* 1 avocado
+	* 2 avocado
+	* 1 habanero chiles (chopped)
 	* 1 cup sour cream
 	* 3 tbsp cilantro
 	* 4 tbsp lime juice
