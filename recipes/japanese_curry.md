@@ -4,12 +4,12 @@
 
 #### Ingredients
 	* 1 onion
-	* 1 yukon gold potato
+	* 2 yukon gold potato (medium to large)
 	* 3 medium carrots
 	* 3 cloves garlic
 	* 1-1.5 pounds meat (chicken or beef)
-	* 3 cups chicken broth
-	* 0.5 package of golden curry roux (4 tablets)
+	* 2 cups chicken broth
+	* 0.5 package of golden curry roux (4 tablets - 2 hot / 2 medium)
 	* oil
 
 #### Directions
