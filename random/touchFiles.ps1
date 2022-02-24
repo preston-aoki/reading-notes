@@ -41,7 +41,6 @@ function getValidExtensions{
 
 # the actual logic
 function touchFile($path) {
-    # get a list of valid files based on file extension
     $validExtensions = (getValidExtensions)
     
     # early termination if all excluded
@@ -50,6 +49,7 @@ function touchFile($path) {
         exit
     }
     
+    # get a list of valid files based on file extension
     $files = Get-ChildItem -Path $path -File | Where-Object{$validExtensions.Contains($_.Extension)}
     
     # select a random number of the files to "work" on
@@ -58,7 +58,7 @@ function touchFile($path) {
     for ($i=0; $i -lt $iterations; $i++) {
         # random offsets so the files don't all look like they were touched at the same time
         $minOffset = (Get-Random -Minimum 0 -Maximum 30)
-        $secOffset = (Get-Random -Minimum 0 -Maximum 36)
+        $secOffset = (Get-Random -Minimum 0 -Maximum 60)
         
         # pick a random file from the list of valid files
         $file = (Get-Random -InputObject $files)
