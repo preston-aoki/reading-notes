@@ -17,8 +17,7 @@
 	* 56 oz of pineapple chunks
 	* 2 tsp salt
 	* 4 tbsp green onion (sliced)
-
-	* brown rice
+	* 6 cups brown rice
 
 
 #### Directions

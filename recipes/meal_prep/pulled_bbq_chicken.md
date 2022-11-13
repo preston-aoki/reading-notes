@@ -15,7 +15,7 @@
 	* 1 tsp black pepper
 	* 1 cup bbq sauce
 	* 0.25 cup chili sauce
-	* brown rice
+	* 6 cups brown rice
 
 
 #### Directions

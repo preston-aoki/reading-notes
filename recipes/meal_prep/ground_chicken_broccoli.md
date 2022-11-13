@@ -13,8 +13,7 @@
 	* 6 tbsp soy sauce
 	* 3 tsp garlic powder
 	* 3 tsp ground ginger
-
-	* brown rice
+	* 6 cups brown rice
 
 
 #### Directions
