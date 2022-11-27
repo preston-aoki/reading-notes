@@ -24,12 +24,11 @@
 	2. cook chicken in half the mixture
 	3. toss peppers and onions in the remaining mixture
 	4. bake veggies on a parchment lined pan for 20 min @ 425
-	5. pressure cook the chicken, bbq sauce and chili sauce to instant pot for 5 minutes
 	6. plate and top w/ cheese, salsa, sour cream, and avocado
 
 
 #### Serving Size
-	* 170 grams of chicken
+	* 170 grams of chicken / peppers
 	* 150 grams of rice
 	* ~10 servings
 

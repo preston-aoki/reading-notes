@@ -19,7 +19,7 @@
 	* 1 habanero chiles (chopped)
 	* 1 cup sour cream
 	* 3 tbsp cilantro
-	* 4 tbsp lime juice
+	* 4 tbsp lime juice (2 limes)
 	* 0.5 tsp salt
 	
 	* 2 cup shredded cheese
@@ -33,7 +33,7 @@
 	3. add tomato sauce, 0.25 cup of water, spices, cook 5 minutes
 
 #### Avocado Cream
-	1. blend avocado, sour cream, 1 habanero chile, cilantro, lime juice, and salt until creamy
+	1. blend avocado, sour cream, 1 habanero chile, cilantro, lime juice, and salt until creamy (try garlic too?)
 
 #### Tortillas
 	1. sear soft tortillas in drainings from beef
